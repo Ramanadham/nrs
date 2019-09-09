@@ -10,9 +10,7 @@ In sample zip folder will contain folders "NodeJS-backend", "reactjs-app-fronten
 6) Run NPM in folders "NodeJS-backend", "reactjs-app-frontent" by using command : npm start
 7) Check the running prot "NodeJS-backend" 
 8) Set the port in App.Js file in "reactjs-app-frontent" for below lines
-
 const apiEndpoint = "http://localhost:3001/reports/";
 const apiEndpointbyBarnd = "http://localhost:3001/reportsbybrand/";
-
 9) Run the application frontend, used Google chats to display the result.
 10) Check the attached Result.jpg for output looks like.
